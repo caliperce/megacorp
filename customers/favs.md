@@ -5,5 +5,6 @@ conjuring
 #Favourite movies
 catch me if you can
 dune 
-interstella
+interstellar
+
 
